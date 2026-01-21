@@ -4,8 +4,17 @@
       "id_equipo": "EQ-001",
       "fecha_operacion": "2026-01-05",
       "turno": "Dia",
-      "horómetro_inicio": 1800.5,
-      "horómetro_fin": 1807.8,
+      "horometro_inicio": 1800.5,
+      "horometro_fin": 1807.8,
+      "proyecto": "CASERONES",
+      "fuente_dato": "Report Operacional"
+    },
+    {
+      "id_equipo": "EQ-002",
+      "fecha_operacion": "2026-01-06",
+      "turno": "Dia",
+      "horometro_inicio": 980.1,
+      "horometro_fin": 985.2,
       "proyecto": "CASERONES",
       "fuente_dato": "Report Operacional"
     }
